@@ -1,11 +1,11 @@
 import React from 'react';
 import NavigationContainer from '@react-navigation/native';
 import createStackNavigator  from '@react-navigation/stack';
-import Image from 'react-native'; 
+import Image from 'react-native'
 
 import LoginScreen from '../Screens/screen/page2.jsx';
 import RegisterScreen from '../Screens/screen/page3.jsx';
-import Page4Screen from '../Screens/page4.jsx';
+import Page4Screen from './Screens/page4.jsx';
 import Page5Screen from '../Screens/page5.jsx';
 import Page7RulesScreen from '../Screens/page7rules.jsx';
 import Page8Screen from '../Screens/page8.jsx';
